@@ -1,0 +1,56 @@
+#clr{
+    background-color: orchid;
+}
+#game {
+    background-color: aqua;
+    color: white;
+    margin:0 50px;
+    
+}
+
+#gm {
+    text-align: center;
+}
+
+.player{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+#do{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    width: 500px;
+    margin:40px auto;
+    border: 1px solid black;
+    border-radius: 10px;
+    color:white;
+    padding: 10px;
+}
+#change{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    width: 300px;
+    margin:40px auto;
+    border: 1px solid black;
+    border-radius: 10px;
+    color: black;
+    padding: 20px;
+}
+.box{
+    width: 100px;
+    height: 100px;
+    background-color: pink;
+    margin:2px;
+    display: flex;
+    justify-content:center ;
+    align-content: center;
+}
+.boxes{
+    display: flex;
+    justify-content: center;
+}
